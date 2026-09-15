@@ -3,7 +3,7 @@
 **Minecraft Free Java Edition** is Java 26.3 Wilderness Bound: dappled forest, poplars, abandoned camps, cushions, straw beds.
 
 
-<img width="2275" height="2500" alt="image" src="https://github.com/user-attachments/assets/71a4e4eb-f531-488a-91d4-803e568ddcac" />
+<img width="275" height="272" alt="image" src="https://github.com/user-attachments/assets/71a4e4eb-f531-488a-91d4-803e568ddcac" />
 
 
 <img width="1280" height="720" alt="images3" src="https://github.com/user-attachments/assets/43de3c62-1874-4b0e-965a-7d0dcaaa803c" />
